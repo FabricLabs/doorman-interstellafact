@@ -1,0 +1,14 @@
+{
+	"name": "doorman-interstellafact",
+	"description": "adds a command to give you a fact about the movie Interstella 5555.",
+	"version": "0.1.0",
+	"license": "Apache-2.0",
+	"readme": "README.md",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/FabricLabs/doorman-interstellafact.git"
+	},
+	"author": "Nate Richardson <hello@naterichardson.com> (https://naterichardson.com)",
+	"main": "interstellafact.js",
+	"dependencies": {}
+}
